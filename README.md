@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/st-gem-ai](https://github.com/yourusername/st-gem-ai)
+Project Link: [https://github.com/Sudhanshu-Thakur-07/st-gem-ai](https://github.com/Sudhanshu-Thakur-07/st-gem-ai)
 
 **Connect with me:**
 - 📷 Instagram: [@_sudhanshu_.___](https://instagram.com/_sudhanshu_.___)
