@@ -154,7 +154,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [](st-gem-chatbot.netlify.app)
+## Live Project
+
+Check out the live version of the chatbot here:  
+[🌐 Visit ST GEM Chatbot](https://st-gem-chatbot.netlify.app)
 
 ---
 
