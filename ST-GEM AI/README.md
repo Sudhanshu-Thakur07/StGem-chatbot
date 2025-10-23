@@ -27,7 +27,7 @@ The chatbot provides a clean, intuitive interface similar to ChatGPT with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/st-gem-ai.git
+   git clone https://github.com/Sudhanshu-Thakur-07/st-gem-ai.git
    cd st-gem-ai
    ```
 
