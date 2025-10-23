@@ -5,6 +5,13 @@ A modern, ChatGPT-like chatbot interface powered by AI. Built with vanilla JavaS
 ![ST-GEM AI](https://img.shields.io/badge/ST--GEM-AI-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 🌐 Live Project
+
+Check out the live version of the chatbot here:  
+[🌐 Visit ST GEM Chatbot](https://st-gem-chatbot.netlify.app)
+
+---
+
 ## Features
 
 - 🤖 **AI-Powered Conversations** - Intelligent responses using advanced AI models
@@ -27,7 +34,7 @@ The chatbot provides a clean, intuitive interface similar to ChatGPT with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sudhanshu-Thakur-07/st-gem-ai.git
+   git clone https://github.com/yourusername/st-gem-ai.git
    cd st-gem-ai
    ```
 
@@ -154,10 +161,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-## Live Project
+Project Link: [https://github.com/Sudhanshu-Thakur-07/st-gem-ai](https://github.com/Sudhanshu-Thakur-07/st-gem-ai)
 
-Check out the live version of the chatbot here:  
-[🌐 Visit ST GEM Chatbot](https://st-gem-chatbot.netlify.app)
+**Connect with me:**
+- 📷 Instagram: [@_sudhanshu_.___](https://instagram.com/_sudhanshu_.___)
 
 ---
 
