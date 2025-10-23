@@ -5,6 +5,13 @@ A modern, ChatGPT-like chatbot interface powered by AI. Built with vanilla JavaS
 ![ST-GEM AI](https://img.shields.io/badge/ST--GEM-AI-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Live Project
+
+Check out the live version of the chatbot here:  
+[🌐 Visit ST GEM Chatbot](https://st-gem-chatbot.netlify.app)
+
+---
+
 ## Features
 
 - 🤖 **AI-Powered Conversations** - Intelligent responses using advanced AI models
@@ -154,11 +161,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-## Live Project
 
-Check out the live version of the chatbot here:  
-[🌐 Visit ST GEM Chatbot](https://st-gem-chatbot.netlify.app)
-
----
 
 Made with ❤️ for learning and development purposes
