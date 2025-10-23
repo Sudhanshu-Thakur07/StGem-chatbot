@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/st-gem-ai](https://github.com/yourusername/st-gem-ai)
+Project Link: [](st-gem-chatbot.netlify.app)
 
 ---
 
