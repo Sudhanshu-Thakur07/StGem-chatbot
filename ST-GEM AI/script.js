@@ -1,5 +1,5 @@
 // API Configuration
-const API_KEY = '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';
+const API_KEY = 'sk-or-v1-9039abfbf45b4d7aa48fc89d1200625a8edf3583576aa6fb701375a625d2f5fx';
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 const IMAGE_API_URL = 'https://openrouter.ai/api/v1/images';
 
